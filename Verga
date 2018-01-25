@@ -1,0 +1,465 @@
+#EXTM3U
+
+#EXTINF:0,IPTV NBA TV USA
+http://80.243.182.106:8080/Basket/NBA1/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://207.244.78.99/stream_22_sk_st.m3u8
+#EXTINF:-1,DISNEY CHANEL
+http://207.244.78.99/stream_20_sk_st.m3u8
+#EXTINF:-1,DISNEY XD TECNO-WILL
+http://207.244.78.99/stream_30_sk_st.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://207.244.78.99/stream_16_sk_st.m3u8
+#EXTINF:-1,FOX SERIES
+http://207.244.78.99/stream_89_sk_st.m3u8
+#EXTINF:-1,FOX ACTION
+http://207.244.78.99/stream_88_sk_st.m3u8
+#EXTINF:-1,FOXLIFE TECNO-WILL
+http://207.244.78.99/stream_44_sk_st.m3u8
+#EXTINF:-1,FOX LATINO
+http://207.244.78.99/stream_8_sk_st.m3u8
+#EXTINF:-1,TNT HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,TNT SERIES
+http://207.244.78.99/stream_39_sk_st.m3u8
+#EXTINF:-1,THE FILMZONE TECNO-WILL
+http://207.244.78.99/stream_79_sk_st.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://207.244.78.99/stream_78_sk_st.m3u8
+#EXTINF:-1,CINEMAX HD
+http://207.244.78.99/stream_115_sk_st.m3u8
+#EXTINF:-1,CINEMA PLUS HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,HISTORY TECNO-WILL
+http://207.244.78.99/stream_83_sk_st.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://207.244.78.99/stream_28_sk_st.m3u8 
+#EXTINF:-1,DISCOVERY
+http://207.244.78.99/stream_19_sk_st.m3u8
+#EXTINF:-1,LIFETIME
+http://207.244.78.99/stream_34_sk_st.m3u8
+#EXTINF:-1,GOLDEN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,FX TECNO-WILL
+http://207.244.78.99/stream_29_sk_st.m3u8
+ 
+#EXTINF:-1,AXN 
+http://207.244.78.99/stream_74_sk_st.m3u8
+#EXTINF:-1,A&E
+http://207.244.78.99/stream_48_sk_st.m3u8 
+#EXTINF:-1,TBS LATINO
+http://207.244.78.99/stream_60_sk_st.m3u8
+
+#EXTINF:-1,WARNER BROTHER TECNO-WILL
+http://207.244.78.99/stream_76_sk_st.m3u8
+
+#EXTINF:-1,AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA TECNO-WILL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+#EXTINF:-1,TELE NOVELAS HD
+http://207.244.78.99/stream_9_sk_st.m3u8
+
+#EXTINF:-1,UNICALE
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://207.244.78.99/stream_102_sk_st.m3u8
+#EXTINF:-1,FOX SPORTS 2 ARG
+http://207.244.78.99/stream_77_sk_st.m3u8
+#EXTINF:-1,CLARO SPORTS HD
+http://bit.ly/ClaroPelixmax
+#EXTINF:-1,CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+
+
+#EXTINF:-1, TELETRACK DEPORTES
+http://edge1.cl.grupoz.cl/teletrak//live/chunklist_w650478349.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sport MX" tvg-logo="https://vignette.wikia.nocookie.net/futperex/images/0/00/Fox_Sports.png/revision/latest?cb=20141214001343&path-prefix=es" group-title="Deportes",Fox Sport MX
+http://200.78.215.85:8010/play/a09g
+ 
+#EXTINF:-1 tvg-name="Fox Sport 2 MX" tvg-logo="http://vertelevisor.com/logos/foxsports2.png" group-title="Deportes",Fox Sport 2 MX
+http://200.78.215.85:8010/play/a0ay
+ 
+#EXTINF:-1 tvg-name="Fox Sport 3 MX" tvg-logo="http://4.bp.blogspot.com/-xBJqEdF4uh0/VhLwBG5topI/AAAAAAAAAak/2AfUt94jAzw/s1600/Fox-Sports-3.png" group-title="Deportes",Fox Sport 3 MX
+http://200.78.215.85:8010/play/a08m
+
+#EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png",group-title="INFANTILES", Discovery Kids
+http://www.iptvmexico.xyz/ch/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/05/espn-logo.png" group-title="Mexico Geobloqueo",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="ENTRETENIMIENTO", Las Estrellas
+http://bit.ly/2xzAwi6
+
+#EXTINF:1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:1,ESPN2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0017/3923/brand.gif?itok=JSAnMShY" group-title="Entretenimiento", RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR] TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+
+
+#EXTINF:-1,INFANTILES:DISNEY JR
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.ocregister.com/wp-content/uploads/2017/04/espn-logo.jpg" group-title="DEPORTES", ESPN
+http://bit.ly/2AoZTVs
+#EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA", Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-UVADCY9JfY0/VpP8gE0QVHI/AAAAAAAABT8/EjLn7BsvXtk/s1600/rmtv.png" group-title="DEPORTES", Real Madrid TV
+http://bit.ly/2x1T8YL
+
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple117/v4/15/84/cc/1584cc7e-3d95-1902-9c5c-fa7690531f6f/source/1200x630bb.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO 51 HD
+http://bit.ly/2iIFCmC
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/unimas-logo-BB80394EED-seeklogo.com.png" group-title="ENTRETENIMIENTO", Unimas
+http://bit.ly/2zauQQy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="ENTRETENIMIENTO", Univision
+http://bit.ly/2zSTthY
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL",  Disney Jr.
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-locomotion_044661_locomotion.png" group-title="INFANTIL", Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aprende_tv.jpg" group-title="CULTURA", Aprende TV
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CULTURA", CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 tvg-logo="https://www.estufuturo.com.co/wp-content/uploads/2017/06/logo-cosmovision.png" group-title="CULTURA", COSMOVISION
+http://bit.ly/2hhLq5y
+
+
+#EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
+http://bit.ly/2wxlPQD
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/h5n2fG/unnamed.png" group-title="DEPORTES", Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES", Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsnet.com.tr/img/logo_sportstv_large.png" group-title="DEPORTES", SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES", Todo Deportes 
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/NEXTV_PERU_LOGOBETA.png" group-title="ENTRETENIMIENTO", NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1 tvg-logo=”http://www.donna10.it/wp-content/uploads/2012/12/rai_premium.png” group-title="ENTRETENIMIENTO", RAI Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://latvianfashion.com/wp-content/uploads/2016/10/rigatv24_logo-300x207.jpg", group-title="ENTRETENIMIENTO", 24 Riga TV
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/tele_Pavia.jpg" group-title="ENTRETENIMIENTO", TelePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" group-title="NOTICIAS", RT Español
+http://bit.ly/2iLCJC2
+
+
+
+
+#EXTINF:-1 group-title="MEXICO", Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 group-title="MEXICO", Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO", Gala TV (YU)
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1 group-title="MEXICO", Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO", RTQ (QE)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="MEXICO", TDT (TL)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1,A Plus P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/44.ts
+#EXTINF:-1,A&E P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/80.ts
+#EXTINF:-1,A3 Series P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/27.ts
+#EXTINF:-1,ADN 40 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/50.ts
+#EXTINF:-1,AMC P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/38.ts
+#EXTINF:-1,Animal Planet P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/5.ts
+#EXTINF:-1,Axn P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/74.ts
+#EXTINF:-1,Aym Sports P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/33.ts
+#EXTINF:-1,Az Cinema P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/17.ts
+#EXTINF:-1,Az Clic P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/113.ts
+#EXTINF:-1,Az Corazón P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/62.ts
+#EXTINF:-1,Az Mundo P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/32.ts
+#EXTINF:-1,Azteca 13 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/42.ts
+#EXTINF:-1,Azteca 7 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/43.ts
+#EXTINF:-1,Azteca Internacional P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/79.ts
+#EXTINF:-1,Baby First P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/94.ts
+#EXTINF:-1,Bandamax P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/88.ts
+#EXTINF:-1,Boomerang P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/125.ts
+#EXTINF:-1,Canal 5 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/56.ts
+#EXTINF:-1,Canal Once P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/68.ts
+#EXTINF:-1,Cartoon Network P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/41.ts
+#EXTINF:-1,Cinecanal P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/107.ts
+#EXTINF:-1,Cinemax P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/37.ts
+#EXTINF:-1,Comedy Central P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/67.ts
+#EXTINF:-1,Congreso de la Unión P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/119.ts
+#EXTINF:-1,De Película P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/106.ts
+#EXTINF:-1,DHE P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/26.ts
+#EXTINF:-1,Discovery Channel P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/124.ts
+#EXTINF:-1,Discovery Civilization P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/101.ts
+#EXTINF:-1,Discovery HH P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/3.ts
+#EXTINF:-1,Discovery Kids HD P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/112.ts
+#EXTINF:-1,Discovery Kids P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/11.ts
+#EXTINF:-1,Discovery Science P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/100.ts
+#EXTINF:-1,Discovery Theater P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/123.ts
+#EXTINF:-1,Discovery TLC P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/105.ts
+#EXTINF:-1,Discovery Turbo P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/4.ts
+#EXTINF:-1,Discovery World P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/122.ts
+#EXTINF:-1,Disney Channel P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/10.ts
+#EXTINF:-1,Disney JR P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/40.ts
+#EXTINF:-1,Disney XD P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/9.ts
+#EXTINF:-1,Distrito Comedia P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/99.ts
+#EXTINF:-1,El Financiero Bloomberg P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/31.ts
+#EXTINF:-1,El Gourmet P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/25.ts
+#EXTINF:-1,Entertainment P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/55.ts
+#EXTINF:-1,Espn 2 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/72.ts
+#EXTINF:-1,Espn 3 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/71.ts
+#EXTINF:-1,Espn P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/73.ts
+#EXTINF:-1,ESPN Plus P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/70.ts
+#EXTINF:-1,Food Network P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/24.ts
+#EXTINF:-1,Fórmula 1 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/118.ts
+#EXTINF:-1,Foro TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/49.ts
+#EXTINF:-1,Fox Life P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/98.ts
+#EXTINF:-1,Fox P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/54.ts
+#EXTINF:-1,Fox Premium Action P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/16.ts
+#EXTINF:-1,Fox Premium Cinema P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/15.ts
+#EXTINF:-1,Fox Premium Classics P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/14.ts
+#EXTINF:-1,Fox Premium Movies P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/13.ts
+#EXTINF:-1,Fox Premium Series P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/12.ts
+#EXTINF:-1,Fox Sports 1 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/87.ts
+#EXTINF:-1,Fox Sports 2 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/86.ts
+#EXTINF:-1,Fox Sports 3 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/23.ts
+#EXTINF:-1,FX P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/61.ts
+#EXTINF:-1,FXM P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/104.ts
+#EXTINF:-1,Gala TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/48.ts
+#EXTINF:-1,Garage TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/60.ts
+#EXTINF:-1,Glitz P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/97.ts
+#EXTINF:-1,Golden  P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/36.ts
+#EXTINF:-1,Golden Edge P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/35.ts
+#EXTINF:-1,Golf Latin America P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/78.ts
+#EXTINF:-1,Havoc P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/22.ts
+#EXTINF:-1,History P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/69.ts
+#EXTINF:-1,HMX P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/66.ts
+#EXTINF:-1,Hola TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/59.ts
+#EXTINF:-1,I.Sat P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/103.ts
+#EXTINF:-1,Imagen TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/117.ts
+#EXTINF:-1,Investigation Discovery HD P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/77.ts
+#EXTINF:-1,Investigation Discovery P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/47.ts
+#EXTINF:-1,Las Estrellas P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/46.ts
+#EXTINF:-1,Latin American Sports P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/116.ts
+#EXTINF:-1,Lifetime P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/2.ts
+#EXTINF:-1,Más Chic P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/58.ts
+#EXTINF:-1,Mexiquense P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/93.ts
+#EXTINF:-1,MTV Hits P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/111.ts
+#EXTINF:-1,MTV Live P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/84.ts
+#EXTINF:-1,MTV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/85.ts
+#EXTINF:-1,Multimedios P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/65.ts
+#EXTINF:-1,Natgeo Kids P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/76.ts
+#EXTINF:-1,Natgeo P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/1.ts
+#EXTINF:-1,Natgeo Wild P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/30.ts
+#EXTINF:-1,Nick 2 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/92.ts
+#EXTINF:-1,Nick JR P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/7.ts
+#EXTINF:-1,Nick P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/8.ts
+#EXTINF:-1,Nicktoons P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/6.ts
+#EXTINF:-1,Ocho TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/21.ts
+#EXTINF:-1,Px TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/115.ts
+#EXTINF:-1,Ritmoson P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/83.ts
+#EXTINF:-1,RT Documentales P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/91.ts
+#EXTINF:-1,Sony P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/20.ts
+#EXTINF:-1,Space P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/53.ts
+#EXTINF:-1,Studio Universal P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/29.ts
+#EXTINF:-1,Sundance P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/90.ts
+#EXTINF:-1,SuresTV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/89.ts
+#EXTINF:-1,Syfy P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/39.ts
+#EXTINF:-1,TBS P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/96.ts
+#EXTINF:-1,TCM P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/110.ts
+#EXTINF:-1,Telefórmula P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/64.ts
+#EXTINF:-1,Telehit P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/82.ts
+#EXTINF:-1,Teleritmo P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/114.ts
+#EXTINF:-1,Televisa MTY P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/95.ts
+#EXTINF:-1,Tiin P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/121.ts
+#EXTINF:-1,Tl Novelas P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/28.ts
+#EXTINF:-1,TNT P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/52.ts
+#EXTINF:-1,Tnt Series P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/51.ts
+#EXTINF:-1,Tooncast P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/120.ts
+#EXTINF:-1,Tru TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/63.ts
+#EXTINF:-1,Tv Más P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/18.ts
+#EXTINF:-1,TVC Deportes P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/34.ts
+#EXTINF:-1,TVC P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/19.ts
+#EXTINF:-1,TVE P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/109.ts
+#EXTINF:-1,Unicable P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/57.ts
+#EXTINF:-1,Universal Channel P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/75.ts
+#EXTINF:-1,Vh1 Classics P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/108.ts
+#EXTINF:-1,VH1 P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/81.ts
+#EXTINF:-1,Warner P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/45.ts
+#EXTINF:-1,Wobi TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/102.ts
+#EXTINF:-1,Milenio TV P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/1438.ts
+#EXTINF:-1,Paramount P3
+http://iptv.roxtvplus.com:25461/live/manuelhqveJX/iscar96eqveJXEMfn/1439.ts
